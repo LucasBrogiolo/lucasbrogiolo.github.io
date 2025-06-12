@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  background: #fafafa;
+  color: #222;
+}
+header {
+  background: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  color: #ffd700;
+  margin: 0 10px;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+}
+footer {
+  background: #eee;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+}
